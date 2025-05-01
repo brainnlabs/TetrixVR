@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.meta.xr.sdk.all": "74.0.3",
     "com.meta.xr.sdk.interaction.ovr": "74.0.3",
     "com.unity.collab-proxy": "2.7.1",
     "com.unity.ide.rider": "3.0.35",
@@ -11,6 +12,7 @@
     "com.unity.timeline": "1.7.7",
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.9.4",
+    "com.unity.xr.hands": "1.4.3",
     "com.unity.xr.management": "4.5.1",
     "com.unity.xr.openxr": "1.14.3",
     "com.unity.modules.ai": "1.0.0",
